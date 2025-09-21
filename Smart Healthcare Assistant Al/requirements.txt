@@ -2,4 +2,5 @@ streamlit
 google-generativeai
 PyPDF2
 python-dotenv
-Pillow
+
+
