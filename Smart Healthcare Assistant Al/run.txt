@@ -1,0 +1,2 @@
+$env:GEMINI_API_KEY="AIzaSyCTPl9U72ge5i12Kc1CgNKJq1aQdVtuA6g"
+python -m streamlit run app.py
